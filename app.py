@@ -47,7 +47,7 @@ df = load_data()
 st.title("🎬 IMDb Movie Recommendation Tool")
 st.sidebar.markdown("### 🎥 About")
 st.sidebar.markdown(
-    "This tool was created by **[Alex Raza](https://github.io/lizardcat)** and is based on the **IMDb Top 1000 Movies Dataset**. "
+    "This tool was created by **[Alex Raza](https://github.com/lizardcat)** and is based on the **IMDb Top 1000 Movies Dataset**. "
     "You can find the dataset here: [IMDb Top 1000 Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)"
 )
 
