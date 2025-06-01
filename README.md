@@ -24,5 +24,5 @@ This IMDb Movie Recommender allows users to filter and discover top-rated movies
 3. **Refine Your Search:** Adjust filters for a tailored movie discovery experience.
 
 ## Notes 
-- The quality of the images is unfortunately a bit sh*t. I might try to find a better database on Kaggle or elsewhere that has higher-quality images. 
+- The quality of the images is unfortunately a bit terrible. I might try to find a better database on Kaggle or elsewhere that has higher-quality images. 
 - I'd like to find a service with a free API that can provide recommendations for where you can watch a particular movie. 
